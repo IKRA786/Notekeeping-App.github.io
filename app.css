@@ -1,0 +1,101 @@
+body
+{
+background: linear-gradient(#ffffff 50%, rgba(255,255,255,0)0) 0 0,
+radial-gradient(circle closest-side, #FFFFFF 53%, rgba(255,255,255,0) 0) 0 0,
+radial-gradient(circle closest-side, #FFFFFF 50%, rgba(255,255,255,0) 0) 55px 0 #48B;
+background-size: 110px 200px;
+background-repeat: repeat-x;
+text-align: center;
+font-family: 'Satisfy', cursive;
+}
+h1
+{
+    color:#ffffff;
+    font-size :2.5rem;
+    font-weight:bold;
+    width:600px;
+
+}
+a:hover{
+    color:#48B
+}
+.btn
+{
+    background-color:#FFFFFF;
+    color:#48B;
+
+}
+.btn:hover
+{
+    background-color: #48B;
+    color: #FFFFFF
+  
+}
+.card{
+    
+    width:602px;
+    border-radius: 1rem;
+    margin-left:100px;
+    box-shadow: 10px 10px 5px #1b1b1b;
+}
+.card-title
+{
+    color:#48b;
+    font-size:2.5rem;
+    font-weight:bold;
+}
+.container
+{
+    padding-top:100px;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+
+}
+.cardtitle
+{
+    color:#48b;
+    font-size:2.5rem;
+    font-weight: bold;
+}
+
+.navbar
+{
+   background-color: #ffffff;
+}
+.navbar-dark .navbar-nav .nav-link
+{
+    color:#48B;
+}
+.navbar-dark .navbar-brand
+{
+    color:#48B;
+    font-size: 2.5rem;
+}
+#addTxt
+{
+    font-size:1.5rem;
+    box-shadow: 5px 5px #48b; 
+}
+
+
+#addtitle
+{
+    font-size:1.5rem;
+    box-shadow: 5px 5px #48b;
+}
+#notes
+{
+    color:darkblue;
+}
+#searchTxt
+{
+    box-shadow: 5px 5px;
+}
+#search
+{
+    box-shadow: 5px 5px;
+}
+
+
